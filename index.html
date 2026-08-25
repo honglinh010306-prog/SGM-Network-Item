@@ -569,7 +569,10 @@
     @media(max-width:700px){
       .navbar{height:64px;padding:0 14px;gap:12px;}
       .nav-menu-btn{display:inline-flex;}
+      .nav-btn.hide-sm#hdrSettingsBtn{display:inline-flex;min-width:40px;width:40px;padding:0;}
+      .nav-btn.hide-sm#hdrSettingsBtn span{display:none;}
       .nav-search-wrap{max-width:none;}
+      .nav-actions{gap:6px;}
       .wrap{padding:16px 14px 36px;gap:12px;}
       .filter-bar{top:64px;padding:12px;}
       .filter-lbl{width:100%;}
@@ -581,8 +584,10 @@
     @media(max-width:480px){
       .nav-title{display:none;}
       .nav-search{font-size:.82rem;}
+      .nav-search-wrap{min-width:0;}
       .filter-selects{display:grid;grid-template-columns:1fr;}
       .filter-selects .sel-wrap{width:100%;}
+      .mbox.sm{width:100%;max-width:calc(100vw - 24px);}
     }
     @media(max-width:380px){.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;}}
     body.dark{
