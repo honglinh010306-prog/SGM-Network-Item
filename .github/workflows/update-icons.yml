@@ -3,7 +3,7 @@ name: Auto Fetch Icons
 on:
   push:
     paths:
-      - 'ItemsData_en.json'
+      - 'ItemsData_vn.json'
       - 'CollectionBanner.json'
       - 'ignore_list.json'
   workflow_dispatch:
@@ -30,4 +30,4 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-fetched new icons"
-          file_pattern: 'ff-icons/ updated_icons.json'
+          file_pattern: 'icons/ updated_icons.json'

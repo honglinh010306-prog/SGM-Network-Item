@@ -575,8 +575,12 @@
       .nav-actions{gap:6px;}
       .wrap{padding:16px 14px 36px;gap:12px;}
       .filter-bar{top:64px;padding:12px;}
-      .filter-lbl{width:100%;}
-      .filter-selects{width:100%;}
+      .filter-bar{display:grid;grid-template-columns:1fr auto;align-items:center;}
+      .filter-lbl{width:auto;}
+      .filter-toggle{display:inline-flex;}
+      .filter-selects,.ms-toggle,.filter-count{grid-column:1 / -1;}
+      .filter-bar.is-collapsed .filter-selects,.filter-bar.is-collapsed .ms-toggle{display:none;}
+      .filter-bar.is-collapsed .filter-count{grid-column:1;}
       .filter-selects .sel-wrap{flex:1;min-width:0;}
       .filter-count{margin-left:0;}
     }
@@ -589,6 +593,10 @@
       .filter-selects .sel-wrap{width:100%;}
       .mbox.sm{width:100%;max-width:calc(100vw - 24px);}
     }
+    .filter-toggle{display:none;align-items:center;justify-content:center;gap:6px;min-height:34px;padding:0 9px;border:1px solid var(--hair);border-radius:var(--radius-sm);background:var(--glass);color:var(--paper);font-family:'GFFBold',sans-serif;font-size:.76rem;cursor:pointer;}
+    .filter-toggle svg{width:15px;height:15px;transition:transform var(--t);}
+    .filter-bar.is-collapsed .filter-toggle svg{transform:rotate(-90deg);}
+    @media(max-width:700px){.filter-toggle{display:inline-flex;}}
     @media(max-width:380px){.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;}}
     body.dark{
       --iron:#0f1722;
@@ -721,7 +729,10 @@
   <!-- Filter Bar -->
   <div class="filter-bar" id="filterBar">
     <span class="filter-lbl" id="txtFilterLbl">Filters</span>
-    <div class="filter-selects">
+    <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="false" aria-controls="filterControls" title="Mở bộ lọc">
+      <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg>
+    </button>
+    <div class="filter-selects" id="filterControls">
       <div class="sel-wrap"><select id="tagFilter" class="sel"></select></div>
       <div class="sel-wrap"><select id="typeFilter" class="sel"></select></div>
       <div class="sel-wrap"><select id="rarityFilter" class="sel"></select></div>
@@ -1149,6 +1160,21 @@
   const devBarEl=$('devBar');
   const devToggle=$('devToggle'), devToggle2=$('devToggle2'), devToggleMain=$('devToggleMain');
   const fcEl=$('filterCount');
+  const filterBar=$('filterBar'), filterToggle=$('filterToggle');
+
+  function setFilterCollapsed(collapsed){
+    const shouldCollapse=window.innerWidth<=700 && collapsed;
+    filterBar.classList.toggle('is-collapsed',shouldCollapse);
+    filterToggle.setAttribute('aria-expanded',String(!shouldCollapse));
+    filterToggle.title=shouldCollapse?'Mở bộ lọc':'Thu gọn bộ lọc';
+  }
+  setFilterCollapsed(localStorage.getItem('filtersExpanded')!=='1');
+  filterToggle.addEventListener('click',()=>{
+    const expanded=filterToggle.getAttribute('aria-expanded')==='true';
+    localStorage.setItem('filtersExpanded',expanded?'0':'1');
+    setFilterCollapsed(expanded);
+  });
+  window.addEventListener('resize',()=>setFilterCollapsed(localStorage.getItem('filtersExpanded')!=='1'));
   const themeToggle=$('themeToggle');
 
   function setDarkMode(enabled){
