@@ -631,6 +631,7 @@
     body.dark .modal{background:rgba(3,9,15,.72);}
     body.dark .mclose{background:#182838;}
     body.dark .footer{background:#182838;}
+    body.filters-disabled #filterBar{display:none;}
   </style>
 </head>
 <body>
@@ -877,6 +878,19 @@
         </div>
         <label class="tsw" title="Bật hoặc tắt giao diện tối">
           <input type="checkbox" id="themeToggle" aria-label="Bật giao diện tối">
+          <span class="ttrack"></span><span class="tthumb"></span>
+        </label>
+      </div>
+
+      <div class="sm-item">
+        <div class="sm-info">
+          <strong>
+            <svg width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.8" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16M7 12h10M10 19h4"/></svg>
+            <span>Hiển thị bộ lọc</span>
+          </strong>
+        </div>
+        <label class="tsw" title="Bật hoặc tắt bộ lọc">
+          <input type="checkbox" id="filterVisibilityToggle" aria-label="Hiển thị bộ lọc">
           <span class="ttrack"></span><span class="tthumb"></span>
         </label>
       </div>
@@ -1161,6 +1175,15 @@
   const devToggle=$('devToggle'), devToggle2=$('devToggle2'), devToggleMain=$('devToggleMain');
   const fcEl=$('filterCount');
   const filterBar=$('filterBar'), filterToggle=$('filterToggle');
+  const filterVisibilityToggle=$('filterVisibilityToggle');
+
+  function setFiltersEnabled(enabled){
+    document.body.classList.toggle('filters-disabled',!enabled);
+    filterVisibilityToggle.checked=enabled;
+    localStorage.setItem('filtersEnabled',enabled?'1':'0');
+  }
+  setFiltersEnabled(localStorage.getItem('filtersEnabled')==='1');
+  filterVisibilityToggle.addEventListener('change',e=>setFiltersEnabled(e.target.checked));
 
   function setFilterCollapsed(collapsed){
     const shouldCollapse=window.innerWidth<=700 && collapsed;
