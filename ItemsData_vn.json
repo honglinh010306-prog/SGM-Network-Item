@@ -145796,7 +145796,7 @@
     "Tag": "",
     "Name": "Amaterasu",
     "Desc": "Tạo một màn hắc hỏa ở vị trí chỉ định. Màn lửa sẽ đốt Bom Keo và gây sát thương lên đối phương chạm phải. Màn lửa không bị ảnh hưởng bởi chướng ngại vật.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Amaterasu",
     "_enDesc": "Create a wall of dark flames in the target area. It will destroy Gloo Walls and deal damage to enemies inside. It will also ignore any obstacles."
   },
   {
@@ -317487,7 +317487,7 @@
     "Name": "HH Lều Barraca",
     "Desc": "Barraca de quermesse",
     "_enName": "Barraca",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Barraca de quermesse"
   },
   {
     "Id": 801000389,
@@ -337647,7 +337647,7 @@
     "Name": "Huy Hiệu Free Fire",
     "Desc": "Free Fire",
     "_enName": "Free Fire Token",
-    "_enDesc": "Free Fire"
+    "_enDesc": "\u0000__PENDING__\u0000"
   },
   {
     "Id": 801001737,
@@ -343241,7 +343241,7 @@
     "Tag": "OB40",
     "Name": "M1887",
     "Desc": "Với Shotgun, bạn đã đánh bại nhiều đối thủ để trở thành kẻ thống trị cuộc chiến.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "M1887",
     "_enDesc": "With this shotgun, you have defeated countless enemies and become the ruler of the battlefield."
   },
   {
@@ -343256,7 +343256,7 @@
     "Tag": "OB40",
     "Name": "Katana",
     "Desc": "Với katana trong tay, bạn trở thành bậc thầy cận chiến, đánh bại mọi kẻ thù và trở thành huyền thoại ở Đảo Quân Sự.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Katana",
     "_enDesc": "With this katana in hand, you once transformed into a melee master, defeated all enemies, and became a legend in Bermuda."
   },
   {
@@ -385886,7 +385886,7 @@
     "Tag": "",
     "Name": "Nulla",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nulla",
     "_enDesc": ""
   },
   {
@@ -385916,7 +385916,7 @@
     "Tag": "",
     "Name": "Kelly",
     "Desc": "",
-    "_enName": "Kelly",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -385931,7 +385931,7 @@
     "Tag": "",
     "Name": "Olivia",
     "Desc": "",
-    "_enName": "Olivia",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -387011,7 +387011,7 @@
     "Tag": "",
     "Name": "Paloma",
     "Desc": "",
-    "_enName": "Paloma",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -473441,7 +473441,7 @@
     "Tag": "OB38",
     "Name": "Cavaliere R",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Cavaliere R",
     "_enDesc": ""
   },
   {
@@ -486957,7 +486957,7 @@
     "Name": "Tất cả",
     "Desc": "Free Fire World Series 2021 Singapore",
     "_enName": "All In",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Free Fire World Series 2021 Singapore"
   },
   {
     "Id": 913042004,
@@ -488036,7 +488036,7 @@
     "Tag": "OB52",
     "Name": "Berburu Berkah",
     "Desc": "ID tháng Ramadan 2026",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Berburu Berkah",
     "_enDesc": "Ramadan ID 2026"
   },
   {
@@ -488081,7 +488081,7 @@
     "Tag": "OB53",
     "Name": "Booyah Olé",
     "Desc": "Nhạc nền Đại Tiệc Sân Cỏ",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Booyah Olé",
     "_enDesc": "Fire Kickoff theme song"
   },
   {
@@ -488201,7 +488201,7 @@
     "Tag": "OB54",
     "Name": "ก้าว (9)",
     "Desc": "Nhạc chủ đề Sinh Nhật 9 Tuổi",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "ก้าว (9)",
     "_enDesc": "9th Anniversary theme song"
   },
   {
@@ -488606,7 +488606,7 @@
     "Tag": "OB46",
     "Name": "Booyahahaha",
     "Desc": "Gói giọng nói độc quyền sự kiện",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Booyahahaha",
     "_enDesc": "Event-exclusive voice pack"
   },
   {
@@ -488697,7 +488697,7 @@
     "Name": "Ngạo nghễ nhỉ?",
     "Desc": "Matuê",
     "_enName": "Got a bit too proud, huh?",
-    "_enDesc": "Matuê"
+    "_enDesc": "\u0000__PENDING__\u0000"
   },
   {
     "Id": 921046008,
@@ -488861,7 +488861,7 @@
     "Tag": "OB46",
     "Name": "Tumse na ho payega",
     "Desc": "Gói giọng nói Bolly Boli",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Tumse na ho payega",
     "_enDesc": "Bolly Boli Voice Pack"
   },
   {
@@ -488891,7 +488891,7 @@
     "Tag": "OB46",
     "Name": "Swagat nahi karoge hamara?",
     "Desc": "Gói giọng nói Bolly Boli",
-    "_enName": "Swagat nahi karoge hamara?",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bolly Boli Voice Pack"
   },
   {
@@ -488906,7 +488906,7 @@
     "Tag": "OB46",
     "Name": "Waat lag gayi",
     "Desc": "Gói giọng nói Bolly Boli",
-    "_enName": "Waat lag gayi",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bolly Boli Voice Pack"
   },
   {
@@ -488936,7 +488936,7 @@
     "Tag": "OB46",
     "Name": "Thann Khachh Booyah!",
     "Desc": "Của cộng đồng Free Fire, vì cộng đồng Free Fire",
-    "_enName": "Thann Khachh Booyah!",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "From the FFM community, for the FFM community!"
   },
   {
@@ -488981,7 +488981,7 @@
     "Tag": "OB46",
     "Name": "Tere Bass Ki Baat Nahi",
     "Desc": "Của cộng đồng Free Fire, vì cộng đồng Free Fire",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Tere Bass Ki Baat Nahi",
     "_enDesc": "From the FFM community, for the FFM community!"
   },
   {
@@ -489086,7 +489086,7 @@
     "Tag": "OB47",
     "Name": "Kenok sikok!",
     "Desc": "Chơi vui cùng gói giọng nói chất!",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Kenok sikok!",
     "_enDesc": "Have more fun playing with funny voice lines!"
   },
   {
@@ -489281,7 +489281,7 @@
     "Tag": "OB47",
     "Name": "Na ami bishwash kori na",
     "Desc": "Cổ vũ đồng đội",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Na ami bishwash kori na",
     "_enDesc": "Appreciating teammates"
   },
   {
@@ -491981,7 +491981,7 @@
     "Tag": "OB52",
     "Name": "HAHAHAHA",
     "Desc": "Gói Giọng Nói Ryomen Sukuna",
-    "_enName": "HAHAHAHA",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Ryomen Sukuna Voice Pack"
   },
   {
@@ -493466,7 +493466,7 @@
     "Tag": "OB54",
     "Name": "Tung tung tung",
     "Desc": "Xin chào mọi người, tôi đã quay trở lại rồi đây. Ôi ôi ôi ôi!",
-    "_enName": "Tung tung tung",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Hello everyone, I'm back again. Wow wow wow!"
   },
   {
@@ -494486,7 +494486,7 @@
     "Tag": "OB43",
     "Name": "PvP",
     "Desc": "Những câu nói nổi đình nổi đám trong cộng đồng",
-    "_enName": "PvP",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "The most popular phrases in the community"
   },
   {
@@ -495641,7 +495641,7 @@
     "Tag": "OB45",
     "Name": "Ae noobde",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "Ae noobde",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
@@ -496586,8 +496586,8 @@
     "Tag": "OB51",
     "Name": "Booyah!",
     "Desc": "Booyah!",
-    "_enName": "\u0000__PENDING__\u0000",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enName": "Booyah!",
+    "_enDesc": "Booyah!"
   },
   {
     "Id": 928005104,
@@ -499586,7 +499586,7 @@
     "Tag": "",
     "Name": "Shiba",
     "Desc": "BAM ! Shiba tới đây rồi ! Hãy sẵn sàng",
-    "_enName": "Shiba",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "BAM! Shiba is here! Prepare yourselves!"
   },
   {
