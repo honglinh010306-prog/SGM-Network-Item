@@ -150612,7 +150612,7 @@
     "Name": "Hộp 8/3",
     "Desc": "Tôn vinh phụ nữ Việt Nam",
     "_enName": "\u0000__PENDING__\u0000",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Tôn vinh phụ nữ Việt Nam"
   },
   {
     "Id": 400000315,
@@ -311876,7 +311876,7 @@
     "Tag": "",
     "Name": "HEXA",
     "Desc": "Huy hiệu dùng để đổi quà",
-    "_enName": "HEXA",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Tokens can be used for redeeming rewards"
   },
   {
@@ -343241,7 +343241,7 @@
     "Tag": "OB40",
     "Name": "M1887",
     "Desc": "Với Shotgun, bạn đã đánh bại nhiều đối thủ để trở thành kẻ thống trị cuộc chiến.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "M1887",
     "_enDesc": "With this shotgun, you have defeated countless enemies and become the ruler of the battlefield."
   },
   {
@@ -343256,7 +343256,7 @@
     "Tag": "OB40",
     "Name": "Katana",
     "Desc": "Với katana trong tay, bạn trở thành bậc thầy cận chiến, đánh bại mọi kẻ thù và trở thành huyền thoại ở Đảo Quân Sự.",
-    "_enName": "Katana",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "With this katana in hand, you once transformed into a melee master, defeated all enemies, and became a legend in Bermuda."
   },
   {
@@ -385886,7 +385886,7 @@
     "Tag": "",
     "Name": "Nulla",
     "Desc": "",
-    "_enName": "Nulla",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -385901,7 +385901,7 @@
     "Tag": "",
     "Name": "Andrew",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Andrew",
     "_enDesc": ""
   },
   {
@@ -385946,7 +385946,7 @@
     "Tag": "",
     "Name": "Ford",
     "Desc": "",
-    "_enName": "Ford",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -387896,7 +387896,7 @@
     "Tag": "",
     "Name": "GOLPISTAS",
     "Desc": "",
-    "_enName": "GOLPISTAS",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": ""
   },
   {
@@ -488096,7 +488096,7 @@
     "Tag": "OB53",
     "Name": "Booyah Olé",
     "Desc": "Nhạc nền Đại Tiệc Sân Cỏ",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Booyah Olé",
     "_enDesc": "Fire Kickoff theme song"
   },
   {
@@ -488697,7 +488697,7 @@
     "Name": "Ngạo nghễ nhỉ?",
     "Desc": "Matuê",
     "_enName": "Got a bit too proud, huh?",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Matuê"
   },
   {
     "Id": 921046008,
@@ -488906,7 +488906,7 @@
     "Tag": "OB46",
     "Name": "Waat lag gayi",
     "Desc": "Gói giọng nói Bolly Boli",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Waat lag gayi",
     "_enDesc": "Bolly Boli Voice Pack"
   },
   {
@@ -489281,7 +489281,7 @@
     "Tag": "OB47",
     "Name": "Na ami bishwash kori na",
     "Desc": "Cổ vũ đồng đội",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Na ami bishwash kori na",
     "_enDesc": "Appreciating teammates"
   },
   {
@@ -494486,7 +494486,7 @@
     "Tag": "OB43",
     "Name": "PvP",
     "Desc": "Những câu nói nổi đình nổi đám trong cộng đồng",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "PvP",
     "_enDesc": "The most popular phrases in the community"
   },
   {
@@ -495416,7 +495416,7 @@
     "Tag": "OB44",
     "Name": "Vroom, stutututu... (Adel)",
     "Desc": "Gói giọng nói của các thành viên JKT48",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Vroom, stutututu... (Adel)",
     "_enDesc": "Playing will be even more fun with the special voices of the JKT48 members!"
   },
   {
@@ -495641,7 +495641,7 @@
     "Tag": "OB45",
     "Name": "Ae noobde",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Ae noobde",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
@@ -495656,7 +495656,7 @@
     "Tag": "OB45",
     "Name": "Arre bhai bhai bhai bhai bhai",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Arre bhai bhai bhai bhai bhai",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
@@ -495686,7 +495686,7 @@
     "Tag": "OB45",
     "Name": "Bhai main toh nahi sehta",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Bhai main toh nahi sehta",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
@@ -496586,8 +496586,8 @@
     "Tag": "OB51",
     "Name": "Booyah!",
     "Desc": "Booyah!",
-    "_enName": "\u0000__PENDING__\u0000",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enName": "Booyah!",
+    "_enDesc": "Booyah!"
   },
   {
     "Id": 928005104,
