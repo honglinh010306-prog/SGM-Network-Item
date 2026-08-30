@@ -1076,7 +1076,7 @@
     "Tag": "",
     "Name": "J.Biebs",
     "Desc": "J.Biebs là một ca sĩ cống hiến cả đời để đoàn kết thế giới",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "J.Biebs",
     "_enDesc": "J.Biebs is a singer who dedicates his life and uses his singing to reunite the world."
   },
   {
@@ -1241,7 +1241,7 @@
     "Tag": "",
     "Name": "Nero",
     "Desc": "Người sống sót kỳ diệu sau cơn bão tuyết tàn khốc, đã có được sức mạnh tạo hình giấc mơ trong những giây phút cuối cùng của sự sống. Hắn nắm giữ quyền năng tối thượng trong thế giới mộng tưởng, hành động đơn độc và hoàn toàn không có tung tích gì ở thực tại.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nero",
     "_enDesc": "A miraculous survivor of a brutal freeze, who gained the power to shape dreams on his last legs. All-powerful in the dreamspace, he acts solitarily and stays untraceable in the waking world."
   },
   {
@@ -1256,7 +1256,7 @@
     "Tag": "",
     "Name": "Morse",
     "Desc": "Tĩnh lặng và tự do như một chú chuột, Morse không bao giờ để lại dấu vết. Anh ta lẩn khuất giữa thế giới thực và thế giới mạng, chỉ hoạt động dựa trên lợi ích cá nhân.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Morse",
     "_enDesc": "Silent and free like a mouse, Morse never leaves a trace behind. He slips between the real world and the web, driven only by self-interests."
   },
   {
@@ -145796,7 +145796,7 @@
     "Tag": "",
     "Name": "Amaterasu",
     "Desc": "Tạo một màn hắc hỏa ở vị trí chỉ định. Màn lửa sẽ đốt Bom Keo và gây sát thương lên đối phương chạm phải. Màn lửa không bị ảnh hưởng bởi chướng ngại vật.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Amaterasu",
     "_enDesc": "Create a wall of dark flames in the target area. It will destroy Gloo Walls and deal damage to enemies inside. It will also ignore any obstacles."
   },
   {
@@ -150611,8 +150611,8 @@
     "Tag": "",
     "Name": "Hộp 8/3",
     "Desc": "Tôn vinh phụ nữ Việt Nam",
-    "_enName": "\u0000__PENDING__\u0000",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enName": "Hộp 8/3",
+    "_enDesc": "Tôn vinh phụ nữ Việt Nam"
   },
   {
     "Id": 400000315,
@@ -271676,7 +271676,7 @@
     "Tag": "OB28",
     "Name": "Antonio",
     "Desc": "Antonio là một đứa trẻ mồ côi, và sau này lớn lên trở thành gangster",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Antonio",
     "_enDesc": "Antonio was an orphan who grew up to be a gangster."
   },
   {
@@ -271691,7 +271691,7 @@
     "Tag": "OB28",
     "Name": "Clu",
     "Desc": "Clu là một thám tử tư hiện đại.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Clu",
     "_enDesc": "Clu is a modern day private detective."
   },
   {
@@ -294386,7 +294386,7 @@
     "Tag": "OB46",
     "Name": "Matuê",
     "Desc": "Matuê",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Matuê",
     "_enDesc": "Matuê"
   },
   {
@@ -295151,7 +295151,7 @@
     "Tag": "OB47",
     "Name": "Nhà Sáng Tạo Free Fire VN",
     "Desc": "Nhà Sáng Tạo Free Fire VN",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nhà Sáng Tạo Free Fire VN",
     "_enDesc": "Free Fire VN Creator"
   },
   {
@@ -311846,7 +311846,7 @@
     "Tag": "",
     "Name": "Ketupat",
     "Desc": "Huy hiệu dùng để đổi quà",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Ketupat",
     "_enDesc": "Tokens can be used for redeeming rewards"
   },
   {
@@ -317487,7 +317487,7 @@
     "Name": "HH Lều Barraca",
     "Desc": "Barraca de quermesse",
     "_enName": "Barraca",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Barraca de quermesse"
   },
   {
     "Id": 801000389,
@@ -319331,7 +319331,7 @@
     "Tag": "",
     "Name": "HH Xmen Uy",
     "Desc": "Huy hiệu dùng để đổi quà",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "HH Xmen Uy",
     "_enDesc": "Tokens can be used for redeeming rewards"
   },
   {
@@ -319361,7 +319361,7 @@
     "Tag": "",
     "Name": "HH Xmen",
     "Desc": "Huy hiệu dùng để đổi quà",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "HH Xmen",
     "_enDesc": "Tokens can be used for redeeming rewards"
   },
   {
@@ -319437,7 +319437,7 @@
     "Name": "HH Wolfrahh",
     "Desc": "GG",
     "_enName": "Wolfrahh",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "GG"
   },
   {
     "Id": 801000519,
@@ -337647,7 +337647,7 @@
     "Name": "Huy Hiệu Free Fire",
     "Desc": "Free Fire",
     "_enName": "Free Fire Token",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Free Fire"
   },
   {
     "Id": 801001737,
@@ -343241,7 +343241,7 @@
     "Tag": "OB40",
     "Name": "M1887",
     "Desc": "Với Shotgun, bạn đã đánh bại nhiều đối thủ để trở thành kẻ thống trị cuộc chiến.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "M1887",
     "_enDesc": "With this shotgun, you have defeated countless enemies and become the ruler of the battlefield."
   },
   {
@@ -343256,7 +343256,7 @@
     "Tag": "OB40",
     "Name": "Katana",
     "Desc": "Với katana trong tay, bạn trở thành bậc thầy cận chiến, đánh bại mọi kẻ thù và trở thành huyền thoại ở Đảo Quân Sự.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Katana",
     "_enDesc": "With this katana in hand, you once transformed into a melee master, defeated all enemies, and became a legend in Bermuda."
   },
   {
@@ -366611,7 +366611,7 @@
     "Tag": "",
     "Name": "T_55_XO_EXCHANGE_1111v",
     "Desc": "Sử dụng để quay để nhận các giải thưởng thú vị!",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "T_55_XO_EXCHANGE_1111v",
     "_enDesc": "Use to spin for exciting prizes!"
   },
   {
@@ -385886,7 +385886,7 @@
     "Tag": "",
     "Name": "Nulla",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nulla",
     "_enDesc": ""
   },
   {
@@ -385901,7 +385901,7 @@
     "Tag": "",
     "Name": "Andrew",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Andrew",
     "_enDesc": ""
   },
   {
@@ -385916,7 +385916,7 @@
     "Tag": "",
     "Name": "Kelly",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Kelly",
     "_enDesc": ""
   },
   {
@@ -385931,7 +385931,7 @@
     "Tag": "",
     "Name": "Olivia",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Olivia",
     "_enDesc": ""
   },
   {
@@ -385946,7 +385946,7 @@
     "Tag": "",
     "Name": "Ford",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Ford",
     "_enDesc": ""
   },
   {
@@ -385961,7 +385961,7 @@
     "Tag": "",
     "Name": "Nikita",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nikita",
     "_enDesc": ""
   },
   {
@@ -387011,7 +387011,7 @@
     "Tag": "",
     "Name": "Paloma",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Paloma",
     "_enDesc": ""
   },
   {
@@ -387026,7 +387026,7 @@
     "Tag": "",
     "Name": "Miguel",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Miguel",
     "_enDesc": ""
   },
   {
@@ -387116,7 +387116,7 @@
     "Tag": "",
     "Name": "Brazil",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Brazil",
     "_enDesc": ""
   },
   {
@@ -387251,7 +387251,7 @@
     "Tag": "",
     "Name": "Caroline",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Caroline",
     "_enDesc": ""
   },
   {
@@ -387596,7 +387596,7 @@
     "Tag": "",
     "Name": "Moco",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Moco",
     "_enDesc": ""
   },
   {
@@ -387896,7 +387896,7 @@
     "Tag": "",
     "Name": "GOLPISTAS",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "GOLPISTAS",
     "_enDesc": ""
   },
   {
@@ -387941,7 +387941,7 @@
     "Tag": "",
     "Name": "TEREM",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "TEREM",
     "_enDesc": ""
   },
   {
@@ -388091,7 +388091,7 @@
     "Tag": "",
     "Name": "SAYONARA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "SAYONARA",
     "_enDesc": ""
   },
   {
@@ -388106,7 +388106,7 @@
     "Tag": "",
     "Name": "VEGA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "VEGA",
     "_enDesc": ""
   },
   {
@@ -388166,7 +388166,7 @@
     "Tag": "",
     "Name": "Anáhac Negativo",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Anáhac Negativo",
     "_enDesc": ""
   },
   {
@@ -388181,7 +388181,7 @@
     "Tag": "",
     "Name": "TEKA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "TEKA",
     "_enDesc": ""
   },
   {
@@ -388211,7 +388211,7 @@
     "Tag": "",
     "Name": "SFI",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "SFI",
     "_enDesc": ""
   },
   {
@@ -388796,7 +388796,7 @@
     "Tag": "",
     "Name": "A124",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "A124",
     "_enDesc": ""
   },
   {
@@ -418316,7 +418316,7 @@
     "Tag": "",
     "Name": "Akatsuki",
     "Desc": "Dùng tất cả Kỷ Vật Akatsuki để nhận danh hiệu đặc biệt",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Akatsuki",
     "_enDesc": "Use all Akatsuki Keepsakes to claim the special title"
   },
   {
@@ -435596,7 +435596,7 @@
     "Tag": "",
     "Name": "AN94 - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "AN94 - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -435626,7 +435626,7 @@
     "Tag": "",
     "Name": "Groza - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Groza - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -435641,7 +435641,7 @@
     "Tag": "",
     "Name": "UMP - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "UMP - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -466346,7 +466346,7 @@
     "Tag": "",
     "Name": "AN94 - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "AN94 - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -466391,7 +466391,7 @@
     "Tag": "",
     "Name": "UMP - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "UMP - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -485846,7 +485846,7 @@
     "Tag": "OB33",
     "Name": "GEN FF",
     "Desc": "Nhạc trong sảnh chờ của Gen FF",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "GEN FF",
     "_enDesc": "Gen FF event lobby music"
   },
   {
@@ -486957,7 +486957,7 @@
     "Name": "Tất cả",
     "Desc": "Free Fire World Series 2021 Singapore",
     "_enName": "All In",
-    "_enDesc": "\u0000__PENDING__\u0000"
+    "_enDesc": "Free Fire World Series 2021 Singapore"
   },
   {
     "Id": 913042004,
@@ -495641,7 +495641,7 @@
     "Tag": "OB45",
     "Name": "Ae noobde",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "Ae noobde",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
