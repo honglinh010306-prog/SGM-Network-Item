@@ -271661,7 +271661,7 @@
     "Tag": "OB28",
     "Name": "Laura",
     "Desc": "Laura là một Mật vụ siêu đẳng.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Laura",
     "_enDesc": "Laura is an outstanding special agent."
   },
   {
@@ -343241,7 +343241,7 @@
     "Tag": "OB40",
     "Name": "M1887",
     "Desc": "Với Shotgun, bạn đã đánh bại nhiều đối thủ để trở thành kẻ thống trị cuộc chiến.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "M1887",
     "_enDesc": "With this shotgun, you have defeated countless enemies and become the ruler of the battlefield."
   },
   {
@@ -343256,7 +343256,7 @@
     "Tag": "OB40",
     "Name": "Katana",
     "Desc": "Với katana trong tay, bạn trở thành bậc thầy cận chiến, đánh bại mọi kẻ thù và trở thành huyền thoại ở Đảo Quân Sự.",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Katana",
     "_enDesc": "With this katana in hand, you once transformed into a melee master, defeated all enemies, and became a legend in Bermuda."
   },
   {
@@ -385886,7 +385886,7 @@
     "Tag": "",
     "Name": "Nulla",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nulla",
     "_enDesc": ""
   },
   {
@@ -385916,7 +385916,7 @@
     "Tag": "",
     "Name": "Kelly",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Kelly",
     "_enDesc": ""
   },
   {
@@ -385931,7 +385931,7 @@
     "Tag": "",
     "Name": "Olivia",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Olivia",
     "_enDesc": ""
   },
   {
@@ -385961,7 +385961,7 @@
     "Tag": "",
     "Name": "Nikita",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Nikita",
     "_enDesc": ""
   },
   {
@@ -387011,7 +387011,7 @@
     "Tag": "",
     "Name": "Paloma",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Paloma",
     "_enDesc": ""
   },
   {
@@ -387026,7 +387026,7 @@
     "Tag": "",
     "Name": "Miguel",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Miguel",
     "_enDesc": ""
   },
   {
@@ -387116,7 +387116,7 @@
     "Tag": "",
     "Name": "Brazil",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Brazil",
     "_enDesc": ""
   },
   {
@@ -387251,7 +387251,7 @@
     "Tag": "",
     "Name": "Caroline",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Caroline",
     "_enDesc": ""
   },
   {
@@ -387896,7 +387896,7 @@
     "Tag": "",
     "Name": "GOLPISTAS",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "GOLPISTAS",
     "_enDesc": ""
   },
   {
@@ -387941,7 +387941,7 @@
     "Tag": "",
     "Name": "TEREM",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "TEREM",
     "_enDesc": ""
   },
   {
@@ -388091,7 +388091,7 @@
     "Tag": "",
     "Name": "SAYONARA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "SAYONARA",
     "_enDesc": ""
   },
   {
@@ -388106,7 +388106,7 @@
     "Tag": "",
     "Name": "VEGA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "VEGA",
     "_enDesc": ""
   },
   {
@@ -388166,7 +388166,7 @@
     "Tag": "",
     "Name": "Anáhac Negativo",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Anáhac Negativo",
     "_enDesc": ""
   },
   {
@@ -388181,7 +388181,7 @@
     "Tag": "",
     "Name": "TEKA",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "TEKA",
     "_enDesc": ""
   },
   {
@@ -388196,7 +388196,7 @@
     "Tag": "",
     "Name": "EVOS",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "EVOS",
     "_enDesc": ""
   },
   {
@@ -388211,7 +388211,7 @@
     "Tag": "",
     "Name": "SFI",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "SFI",
     "_enDesc": ""
   },
   {
@@ -388796,7 +388796,7 @@
     "Tag": "",
     "Name": "A124",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "A124",
     "_enDesc": ""
   },
   {
@@ -418316,7 +418316,7 @@
     "Tag": "",
     "Name": "Akatsuki",
     "Desc": "Dùng tất cả Kỷ Vật Akatsuki để nhận danh hiệu đặc biệt",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Akatsuki",
     "_enDesc": "Use all Akatsuki Keepsakes to claim the special title"
   },
   {
@@ -427136,7 +427136,7 @@
     "Tag": "",
     "Name": "M14 - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "M14 - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -427151,7 +427151,7 @@
     "Tag": "",
     "Name": "Groza - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Groza - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -427166,7 +427166,7 @@
     "Tag": "",
     "Name": "UMP - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "UMP - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -460781,7 +460781,7 @@
     "Tag": "OB53",
     "Name": "Katana - Toyako",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "Katana - Toyako",
     "_enDesc": ""
   },
   {
@@ -466346,7 +466346,7 @@
     "Tag": "",
     "Name": "AN94 - BOOYAH",
     "Desc": "",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "AN94 - BOOYAH",
     "_enDesc": ""
   },
   {
@@ -485846,7 +485846,7 @@
     "Tag": "OB33",
     "Name": "GEN FF",
     "Desc": "Nhạc trong sảnh chờ của Gen FF",
-    "_enName": "\u0000__PENDING__\u0000",
+    "_enName": "GEN FF",
     "_enDesc": "Gen FF event lobby music"
   },
   {
@@ -488906,7 +488906,7 @@
     "Tag": "OB46",
     "Name": "Waat lag gayi",
     "Desc": "Gói giọng nói Bolly Boli",
-    "_enName": "Waat lag gayi",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bolly Boli Voice Pack"
   },
   {
@@ -489311,7 +489311,7 @@
     "Tag": "OB47",
     "Name": "Dourao...!",
     "Desc": "Cổ vũ đồng đội",
-    "_enName": "Dourao...!",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Appreciating teammates"
   },
   {
@@ -493466,7 +493466,7 @@
     "Tag": "OB54",
     "Name": "Tung tung tung",
     "Desc": "Xin chào mọi người, tôi đã quay trở lại rồi đây. Ôi ôi ôi ôi!",
-    "_enName": "Tung tung tung",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Hello everyone, I'm back again. Wow wow wow!"
   },
   {
@@ -495641,7 +495641,7 @@
     "Tag": "OB45",
     "Name": "Ae noobde",
     "Desc": "Gói giọng nói Bhaichara",
-    "_enName": "Ae noobde",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Bhaichara Voice Pack"
   },
   {
@@ -496586,8 +496586,8 @@
     "Tag": "OB51",
     "Name": "Booyah!",
     "Desc": "Booyah!",
-    "_enName": "Booyah!",
-    "_enDesc": "Booyah!"
+    "_enName": "\u0000__PENDING__\u0000",
+    "_enDesc": "\u0000__PENDING__\u0000"
   },
   {
     "Id": 928005104,
@@ -499586,7 +499586,7 @@
     "Tag": "",
     "Name": "Shiba",
     "Desc": "BAM ! Shiba tới đây rồi ! Hãy sẵn sàng",
-    "_enName": "Shiba",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "BAM! Shiba is here! Prepare yourselves!"
   },
   {
@@ -499931,7 +499931,7 @@
     "Tag": "",
     "Name": "Agumon",
     "Desc": "Agumon là bạn của Taichi và là Digimon Bò Sát.",
-    "_enName": "Agumon",
+    "_enName": "\u0000__PENDING__\u0000",
     "_enDesc": "Agumon is Taichi's partner and a Reptile Digimon."
   },
   {
